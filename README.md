@@ -1,7 +1,7 @@
 # Garnish Gourmet Restaurant Website
 This project showcases the use of modern web development technologies to create a seamless, user-friendly, and visually appealing online presence for our restaurant.
 
-[Garnish-Gourmet-Restaurant-LiveWebsite](https://garnish-gourmet-restaurant.web.app/)
+[Garnish-Gourmet-Restaurant-Live-Website-Link](https://garnish-gourmet-restaurant.web.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
